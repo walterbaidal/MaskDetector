@@ -1,0 +1,6 @@
+setuptools
+Flake8
+opencv-python
+mtcnn
+tensorflow>=2.0.0
+numpy
